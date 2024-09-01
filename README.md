@@ -2,7 +2,7 @@
 This project includes integration tests using the QUnit framework to validate various functionalities of the Test App. These tests interact directly with the application's API in order to perform user registration, login, and CRUD operations. The tests do not involve frontend interactions, ensuring that the core backend functionalities are working as expected.
 
 ## Prerequisits & Setup
-- Setup the test app locally https://github.com/alpeykov/test-app/blob/master/README.md
+- Setup the [test app](https://github.com/alpeykov/test-app/blob/master/README.md) locally 
 - Visit http://localhost:3000/
 - git clone https://github.com/alpeykov/qunit-tests-test-app.git
 - Navigate to test.html and open it in your browser
