@@ -12,7 +12,7 @@ User Functionalities (#1 USER FUNCTIONALITIES):
 - Test 1.1: Registers a new random user.
 - Test 1.2: Logs in with the newly created user.
 
-CRUD Functionalities (#2 ALBUM FUNCTIONALITIES):
+CRUD Functionalities (#2 ITEM FUNCTIONALITIES):
 
 - Test 2.1: Retrieves all available items.
 - Test 2.2: Creates a new item.
