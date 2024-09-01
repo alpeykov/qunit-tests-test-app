@@ -1,5 +1,5 @@
 # QUnit Tests for Test App
-This project includes integration tests using the QUnit framework to validate various functionalities of the Test App. These tests interact directly with the application's API to perform user registration, login, and CRUD operations for album management. The tests do not involve frontend interactions, ensuring that the core backend functionalities are working as expected.
+This project includes integration tests using the QUnit framework to validate various functionalities of the Test App. These tests interact directly with the application's API to perform user registration, login, and CRUD operations. The tests do not involve frontend interactions, ensuring that the core backend functionalities are working as expected.
 
 ## Prerequisits & Setup
 - Setup the test app locally https://github.com/alpeykov/test-app/blob/master/README.md
