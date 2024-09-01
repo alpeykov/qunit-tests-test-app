@@ -14,7 +14,7 @@ User Functionalities (#1 USER FUNCTIONALITIES):
 
 CRUD Functionalities (#2 ALBUM FUNCTIONALITIES):
 
-- Test 2.1: Retrieves all available albums.
-- Test 2.2: Creates a new album.
-- Test 2.3: Edits an existing album.
-- Test 2.4: Deletes an album.
+- Test 2.1: Retrieves all available items.
+- Test 2.2: Creates a new item.
+- Test 2.3: Edits an existing item.
+- Test 2.4: Deletes an item.
